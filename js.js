@@ -1,5 +1,4 @@
 'use strict';
-'use strict'
 
 // variables: 
 var button = document.getElementById('greeter-button');
